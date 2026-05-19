@@ -1,4 +1,4 @@
 # first-git
 This is my first practice.
 <br>
-Author - Md Sajjad Kabir Sagor
+Author - Md Sajjad Kabir
